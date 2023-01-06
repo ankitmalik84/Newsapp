@@ -70,5 +70,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ## Output of App
-<video width="320" height="240" controls>
-  <source src="/src/2023-01-06_07-14-57.mp4" type="video/mp4"></video>
+
+
+https://user-images.githubusercontent.com/68542020/210914117-d1ccaaf1-0f57-4d49-9589-147c0fd21bec.mp4
+
+
+
+
